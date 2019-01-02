@@ -39,7 +39,7 @@ The image processing function has been mentioned in the beginning of the algorit
 
 ## Demo Platform
 
-This part performs the demonstration of "acquiring images from outside-->building libraries-->matching", and needs to cooperate with external collection devices. You can find the installation instructions in the xxx folder.
+This part performs the demonstration of "acquiring images from outside-->building libraries-->matching", and needs to cooperate with external collection devices. You can find the installation instructions in the \b“Finger vein infrared image device” folder.
 
 
 ## Authors
