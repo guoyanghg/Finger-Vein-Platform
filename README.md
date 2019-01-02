@@ -31,7 +31,7 @@ The interface auxiliary module provides some convenient functions in considerati
 
 3.1 Window Control
 
-The horizontal bar on the edge of the window can be dragged to adjust the size of the display window. Double-clicking the display window will extend the window to full screen. Double-clicking the window again will restore the same size to the four windows. In the widow on the right side, you can see some useful information, such as the size of the image in each display window. The output window below is for displaying various operational information such as scores.
+The horizontal bar on the edge of the window can be dragged to adjust the size of the display window. Double-clicking the display window will extend the window to full screen, and you can double-clicking the window again restore the original size. In the widow on the right side, you can see some useful information, such as the size of the image in each display window. The output window below is for displaying various operational information such as scores.
 
 
 ## Demo Platform
