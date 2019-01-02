@@ -1,5 +1,5 @@
 # Finger-Vein-Platform
-This project consists of two modules, "Main Platform" and "Demo Platform".
+This project consists of two modules, "Main Platform" and "Demo Platform". If you are interested in the Main Platform's source code, please contact with [authors](##Authors) 
 ## Main Platform
 ### Algorithm Execution Module
 
@@ -39,7 +39,7 @@ The image processing function has been mentioned in the beginning of the algorit
 
 ## Demo Platform
 
-This part performs the demonstration of "acquiring images from outside-->building libraries-->matching", and needs to cooperate with external collection devices. You can find the installation instructions in the \b“Finger vein infrared image device” folder.
+This part performs the demonstration of "acquiring images from outside-->building libraries-->matching", and needs to cooperate with external collection devices. You can find the installation instructions in the `Finger vein infrared image device` folder.
 
 
 ## Authors
