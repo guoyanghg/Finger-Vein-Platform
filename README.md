@@ -15,7 +15,7 @@ You can use the `edit` button to switch to the Double mode. Then, you need to im
 
 ### Database Processing Module
 
-The database processing module consists of `algorithm running unit` and `batch processing unit of original data`.
+The database processing module consists of `algorithm running unit` and `batch processing unit of raw data`.
 
 2.1 Algorithm Execution
 
@@ -36,7 +36,7 @@ The horizontal bar on the edge of the window can be dragged to adjust the size o
 
 ## Demo Platform
 
-You can find the installation instructions in the `Finger vein infrared image device` folder.
+You can find the installation instructions in the `Demo Platform` folder.
 
 
 ## Authors
