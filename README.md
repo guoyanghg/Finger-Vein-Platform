@@ -1,5 +1,5 @@
 # Finger-Vein-Platform
-This project consists of two modules, "Main Platform" and "Demo Platform". If you are interested in the Main Platform's source code, please contact with [authors.](#Authors) 
+This project consists of two modules, "Main Platform" and "Demo Platform". If you are interested in the Main Platform, please contact with [authors.](#Authors) 
 ## Main Platform
 ### Algorithm Execution Module
 
