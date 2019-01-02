@@ -1,7 +1,7 @@
 # Finger-Vein-Platform
 This project consists of two modules, "Main Platform" and "Demo Platform".
 ## Main Platform
-1. Algorithm Execution Module
+1: Algorithm Execution Module
 
 The algorithm execution module is divided into two modes, namely single and double mode.
 
