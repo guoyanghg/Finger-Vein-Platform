@@ -1,29 +1,39 @@
 # Finger-Vein-Platform
 本项目分为两部分，主平台以及演示程序，细节如下
 ## 主平台功能介绍
-3.1算法执行模块
-  算法执行模块分为单幅模式和双幅模式。
-  3.1.1 单幅模式
-  通过文件菜单导入单幅手指静脉红外图像,可以对其进行内封算法及外部导入算法的执行和效果展示。平台的四个窗口(从左上到右下依次)分别显示原图像,切割之后的图像与边缘,ROI提取后缩放的图像以及特征图像。另外，还可以右击对每幅图像进行处理和切换操作,或是点击质量评价按钮对提取后的ROI图像进行梯度和对比度的获取。
-  3.1.2 双幅模式
-  在编辑按钮中切换至双幅模式,所有的操作将会被清空。然后从文件菜单中导入两幅手指静脉红外图像,平台的四个窗口(从左上到右下依次)分别显示第一幅图的原图像,第二副图的原图像,第一副图的特征图像,第二副图的特征图像。与单幅图像处理不同的是，ROI提取等细节将被隐藏，右击窗口仍然有单幅图像模式中相应的功能。非常重要的一点是，双幅图像模式提供匹配功能以及匹配得分的显示，可以用来对算法进行测试比对。
-3.2数据库处理模块
-  数据库处理模块分为算法运行单元和原始书库批量处理单元
-  3.2.1 算法运行
-  数据库处理模块提供的算法与算法执行模块相同，同时额外提供PBBM(Personalized Best Bit Map)算法。点击"数据库处理"按钮将会出现相应的交互接口，根据指示填写参数便可以完成算法在数据库上的执行，同时在执行结束时产生FAR，FRR及ROC（Receiver Operating Characteristic curve）三个曲线及EER值。
-  3.2.2 原始数据批量处理
-  提供对原始数据库的批量处理功能。点击"批量切图"按钮将会出现相应的交互接口。
-3.3界面辅助模块
-  界面辅助模块考虑到平台的交互性提供了一些方便操作的功能
-  3.3.1 窗口控制
-  窗口边上的横竖条可以拖动来调整显示窗口大小，同时双击显示窗口会使窗口充满屏幕，再次双击会恢复到四个窗口大小相同的位置。右边属性视图中可以显示每个显示窗口中图片的大小等属性信息。下面输出窗口负责显示各种操作信息以及计算得分。
-  3.3.1 附加功能
-  图像处理功能在算法执行模块的介绍中已经提到，另外还有字符串纠错功能，防止用户输入不合法的参数。
-  
-  演示程序
-  该部分完成从外部采集图像，建库，匹配的流程演示，需要配合外部的采集设备，安装指导在xxx文件夹中。
+Platform Function Introduction
 
-该平台软件著作权为山东大学尹义龙实验室所有，并用于科研用途，如果你想要获取完整安装程序或最终版源代码，请联系作者
+* Algorithm Execution Module
+The algorithm execution module is divided into two modes, namely single and double mode.
+
+* Single Mode
+By importing a single finger vein infrared image through the file menu, the visualization effect of internal sealing and external import algorithms can be displayed. The four windows of the platform (from top left to bottom right) display the original image, the image and edge after cutting, the image after zooming by ROI and the feature image, respectively. In addition, you can right-click on each image to process and switch, or click the quality evaluation button to extract the gradient and of the ROI.
+
+* Double Mode
+Switch to double mode in the edit button and all operations will be cleared. Then, two finger vein infrared images are imported from the file menu The four windows of the platform (from top left to bottom right)display the original image of the first image, the original image of the second image, and the features of the first image and second image, respectively. Unlike single image processing, the details, such as ROI extraction, are hidden, and the right-click window still has the corresponding function in the single image mode. It is crucial that the double image mode provides a matching function and a display of matching scores that can be used in testing the algorithm for comparison.
+
+* Database Processing Module
+The database processing module consists of algorithm running unit and batch processing unit of original data.
+
+* Algorithm Operation
+The database processing module has the same algorithm as the algorithm execution module, and additionally provides a PBBM (Personalized Best Bit Map) algorithm. Click on "Database Processing" button and the corresponding interactive interface will appear. Fill in the parameters according to the instructions to complete the algorithm execution on the database. At the end of the execution, generate FAR, FRR and ROC (Receiver Operating Characteristic) curves and EER. 
+
+* Batch Processing of the Raw Data
+This provides batch processing of the original database. Clicking on the "Batch Cut" button will pop up the corresponding interactive interface.
+
+* Interface Auxiliary Module
+The interface assistant module provides some convenient functions in consideration of the interactivity of the platform.
+
+* Window Control
+The horizontal bar on the edge of the window can be dragged to adjust the size of the display window. Double-clicking the display window will extend the window to full screen. Double-clicking the window again will restore the same size to the four windows. In the property view on the right, you can display attribute information, such as the size of the image in each display window. The output window below is for displaying various operational information and calculating scores.
+
+* Additional Features
+The image processing function has been mentioned in the beginning of the algorithm execution module.
+
+Demo Program
+
+This part performs the demonstration of "acquiring images from outside--building libraries--matching", and needs to cooperate with external collection devices. The installation instructions are in the xxx folder.
+
 
 ## Authors
 * Project leader: Yang Guo email:guoyanghg@163.com
