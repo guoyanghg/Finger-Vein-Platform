@@ -1,7 +1,7 @@
 # Finger-Vein-Platform
 This project consists of two modules, "Main Platform" and "Demo Platform".
 ## Main Platform
-1: Algorithm Execution Module
+### Algorithm Execution Module
 
 The algorithm execution module is divided into two modes, namely single and double mode.
 
@@ -13,7 +13,7 @@ By importing a single finger vein infrared image through the file menu, the visu
 
 Switch to double mode in the edit button and all operations will be cleared. Then, two finger vein infrared images are imported from the file menu The four windows of the platform (from top left to bottom right)display the original image of the first image, the original image of the second image, and the features of the first image and second image, respectively. Unlike single image processing, the details, such as ROI extraction, are hidden, and the right-click window still has the corresponding function in the single image mode. It is crucial that the double image mode provides a matching function and a display of matching scores that can be used in testing the algorithm for comparison.
 
-2. Database Processing Module
+### Database Processing Module
 
 The database processing module consists of algorithm running unit and batch processing unit of original data.
 
@@ -25,7 +25,7 @@ The database processing module has the same algorithm as the algorithm execution
 
 This provides batch processing of the original database. Clicking on the "Batch Cut" button will pop up the corresponding interactive interface.
 
-3 Interface Auxiliary Module
+### Interface Auxiliary Module
 
 The interface auxiliary module provides some convenient functions in consideration of the interactivity of the platform.
 
