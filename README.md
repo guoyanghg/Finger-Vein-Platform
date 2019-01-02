@@ -43,7 +43,7 @@ This part performs the demonstration of "acquiring images from outside-->buildin
 
 
 ## Authors
-* Project leader: Yang Guo 
+* Project Leader: Yang Guo 
 
 * guoyanghg@163.com
 
