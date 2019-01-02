@@ -45,11 +45,11 @@ This part performs the demonstration of "acquiring images from outside-->buildin
 ## Authors
 * Project leader: Yang Guo 
 
-email:guoyanghg@163.com
+* guoyanghg@163.com
 
 * Main Member: Yongqiang Jiang 
 
-email: iamxiaoqiangzi@gmail.com
+* iamxiaoqiangzi@gmail.com
 
 * Zeyan Kang & Yilin Wen
 
