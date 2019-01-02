@@ -1,7 +1,6 @@
 # Finger-Vein-Platform
-本项目分为两部分，主平台以及演示程序，细节如下
-## 主平台功能介绍
-Platform Function Introduction
+This project consists of two modules, "Main Platform" and "Demo Platform".
+## Main Platform
 
 * Algorithm Execution Module
 The algorithm execution module is divided into two modes, namely single and double mode.
@@ -30,9 +29,9 @@ The horizontal bar on the edge of the window can be dragged to adjust the size o
 * Additional Features
 The image processing function has been mentioned in the beginning of the algorithm execution module.
 
-Demo Program
+## Demo Platform
 
-This part performs the demonstration of "acquiring images from outside--building libraries--matching", and needs to cooperate with external collection devices. The installation instructions are in the xxx folder.
+This part performs the demonstration of "acquiring images from outside-->building libraries-->matching", and needs to cooperate with external collection devices. You can find the installation instructions in the xxx folder.
 
 
 ## Authors
