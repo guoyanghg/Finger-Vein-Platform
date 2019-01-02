@@ -1,0 +1,22 @@
+﻿生成启动时间为 2015/9/17 8:40:51。
+     1>项目“C:\Users\Blnj\documents\visual studio 2012\Projects\Dialog\Dialog\Dialog.vcxproj”在节点 2 上(Build 个目标)。
+     1>ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.0\bin\x86\rc.exe /D _DEBUG /D _UNICODE /D UNICODE /l"0x0804" /IDebug\ /nologo /fo"Debug\Dialog.res" Dialog.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Blnj\documents\visual studio 2012\Projects\Dialog\Debug\Dialog.exe" /INCREMENTAL /NOLOGO opencv_calib3d248d.lib opencv_contrib248d.lib opencv_core248d.lib opencv_features2d248d.lib opencv_flann248d.lib opencv_gpu248d.lib opencv_highgui248d.lib opencv_imgproc248d.lib opencv_legacy248d.lib opencv_ml248d.lib opencv_nonfree248d.lib opencv_objdetect248d.lib opencv_ocl248d.lib opencv_photo248d.lib opencv_stitching248d.lib opencv_superres248d.lib opencv_ts248d.lib opencv_video248d.lib opencv_videostab248d.lib libeng.lib libmx.lib libmat.lib libmex.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"C:\Users\Blnj\documents\visual studio 2012\Projects\Dialog\Debug\Dialog.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Blnj\documents\visual studio 2012\Projects\Dialog\Debug\Dialog.lib" /MACHINE:X86 Debug\Dialog.res
+         Debug\CvvImage.obj
+         Debug\Dialog.obj
+         Debug\DialogDlg.obj
+         Debug\GatherDlg.obj
+         Debug\ImageProcess.obj
+         Debug\MatchDlg.obj
+         Debug\MsgDlg.obj
+         Debug\PBBMThread.obj
+         Debug\RegisterDlg.obj
+         Debug\stdafx.obj
+         Dialog.vcxproj -> C:\Users\Blnj\documents\visual studio 2012\Projects\Dialog\Debug\Dialog.exe
+     1>已完成生成项目“C:\Users\Blnj\documents\visual studio 2012\Projects\Dialog\Dialog\Dialog.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:30.23
