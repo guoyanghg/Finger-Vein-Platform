@@ -3,7 +3,7 @@ This project consists of two modules, "Main Platform" and "Demo Platform". If yo
 ## Main Platform
 ### Algorithm Execution Module
 
-The algorithm execution module consists of two modes, namely single and double mode.
+The algorithm execution module consists of two modes, `Single Mode` and `Double Mode`.
 
 1.1 Single Mode
 
@@ -19,11 +19,11 @@ The database processing module consists of `algorithm running unit` and `batch p
 
 2.1 Algorithm Execution
 
-You can use all the algorithm in Algorithm Execution Module, and additionally Database Processing Module provides a PBBM (Personalized Best Bit Map) algorithm. Click on "Database Processing" button and the corresponding interface will appear. Fill in the parameters according to the instructions to complete the algorithm execution on the database. At the end of the execution, you can get FAR, FRR, ROC (Receiver Operating Characteristic) curves and EER. 
+You can use all the algorithm in [Algorithm Execution Module](#Algorithm Execution Module), and additionally Database Processing Module provides a PBBM (Personalized Best Bit Map) algorithm. Please click on `Database Processing` button, and then corresponding interface will appear. Fill in the parameters according to the instructions to complete the execution. At the end of this, you can get FAR, FRR, ROC (Receiver Operating Characteristic) curves and EER. 
 
 2.2 Batch Processing of the Raw Data
 
-This provides batch processing of the original database. Clicking on the "Batch Cut" button will pop up the corresponding interactive interface.
+This provides batch processing of the raw database. You can click on the `Batch Cutting` button to find the corresponding interactive interface.
 
 ### Interface Auxiliary Module
 
@@ -31,12 +31,12 @@ The interface auxiliary module provides some convenient functions in considerati
 
 3.1 Window Control
 
-The horizontal bar on the edge of the window can be dragged to adjust the size of the display window. Double-clicking the display window will extend the window to full screen, and you can double-clicking the window again restore the original size. In the widow on the right side, you can see some useful information, such as the size of the image in each display window. The output window below is for displaying various operational information such as scores.
+The horizontal bar on the edge of the window can be dragged to adjust the size of the display window. Double-clicking the display window will extend the window to full screen, and you can double-clicking the window again restore the original size. In the window on the right side, you can see some useful information, such as the size of the image in each window.
 
 
 ## Demo Platform
 
-You can find the installation instructions in the `Demo Platform` folder.
+This is the Demo version of Main Platform. You can find the installation instructions in the `Demo Platform` folder.
 
 
 ## Authors
